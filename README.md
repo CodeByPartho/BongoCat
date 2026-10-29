@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>🐱 BongoCat Desktop</h1>
+ <h1>BongoCat Desktop</h1>
 
   <p><b>Interactive Desktop Bongo-Tapping Cat Animation Built with Pygame</b></p>
 
@@ -18,23 +18,23 @@
 
 ---
 
-## 📖 Overview
+## Overview
 
 **BongoCat Desktop** is a desktop widget application built using Python and Pygame. It renders the classic Bongo Cat sprite on your screen, featuring a 30 FPS state engine that transitions between an idle breathing state and alternating left/right paw drum strikes with synchronized audio feedback whenever you type or click.
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
-- 🥁 **Interactive Drum Tapping** — Alternating left and right paw stroke animations mapped to user keystrokes and mouse clicks.
-- 🔊 **Synchronized Acoustic Audio** — Low-latency sound playback via `pygame.mixer` triggered on each tap event.
-- ⏱️ **State Machine Animation** — Dynamic timer-based recovery transitioning from active drumming back to idle posture.
-- 📦 **PyInstaller Portable Packaging** — Bundled assets structure supporting one-command compilation to standalone executables.
-- 🎨 **Alpha-Transparent Sprites** — Crisp 2D illustration rendering with transparent background handling.
+- **Interactive Drum Tapping** — Alternating left and right paw stroke animations mapped to user keystrokes and mouse clicks.
+- **Synchronized Acoustic Audio** — Low-latency sound playback via `pygame.mixer` triggered on each tap event.
+- **State Machine Animation** — Dynamic timer-based recovery transitioning from active drumming back to idle posture.
+- **PyInstaller Portable Packaging** — Bundled assets structure supporting one-command compilation to standalone executables.
+- **Alpha-Transparent Sprites** — Crisp 2D illustration rendering with transparent background handling.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component | Technology | Purpose |
 | :--- | :--- | :--- |
@@ -44,7 +44,7 @@
 
 ---
 
-## 💻 Getting Started
+## Getting Started
 
 ### Prerequisites
 - **Python**: `>= 3.10`
@@ -70,10 +70,10 @@
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **[MIT License](LICENSE)**.
 
 ---
 
-<p align="center">Made with ❤️ by Partho</p>
+<p align="center">Built by Partho</p>
